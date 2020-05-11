@@ -13,4 +13,4 @@ Enter expenses offline<br>
 When brought back online: Offline entries should be added to tracker.
 
 <h4><b>App Image</b></h4>
-
+(https://user-images.githubusercontent.com/58242373/81520494-7a5f9400-9312-11ea-912f-2a5a0af5615b.jpg)
