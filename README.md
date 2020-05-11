@@ -8,8 +8,8 @@ Deploy through Heroku. <a href="https://peaceful-brook-52779.herokuapp.com">Budg
 Heroku Add Ons: Install mLab MongoDB Sandbox
 
 <h4><b>Offline Functionality:</b></h4>
-Enter deposits offline<b>
-Enter expenses offline<b>
+Enter deposits offline<br>
+Enter expenses offline<br>
 When brought back online: Offline entries should be added to tracker.
 
 <h4><b>App Image</b></h4>
